@@ -5,7 +5,6 @@ import { config } from "react-spring";
 import sudhaar from '../assets/Initiatives/Sudhaar.jpg';
 import gyaan from '../assets/Initiatives/Gyaan.jpg';
 import nirmaan from '../assets/Initiatives/Nirmaan.jpg';
-import gogreen from '../assets/Initiatives/Go-Green.png';
 import muskaan from '../assets/Initiatives/Muskaan.jpg';
 import '../css/initiatives.css';
 
